@@ -3,7 +3,7 @@
 #include <memory>
 
 // Tile size (in pixels)
-constexpr float TILE_SIZE = 10.0f;
+constexpr auto TILE_SIZE = 10.0f;
 
 class Game
 {
